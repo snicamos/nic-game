@@ -3,7 +3,7 @@
 To fellow Ruby Newbies like myself, I hope you enjoy this little game
 
 
-To get started install ruby. Fork this repo, clone it and run with "ruby snicgame.rb"
+To get started install ruby. Fork this repo, clone it and run with "ruby start.rb"
 
 
 Enjoy!
